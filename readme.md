@@ -26,5 +26,6 @@ redirect to home (or index.html whatever) then go to the copied route.
 - [x] Show basic user info
 - [x] List of articles populated from author's created articles or author's favorited articles
 
+something's change
 
 - Webpack is quite difficult to debug
