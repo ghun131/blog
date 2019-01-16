@@ -1,0 +1,30 @@
+.App {
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+
+.App ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.App li {
+    display: inline-block;
+}
+
+.App a {
+    text-decoration: none;
+    cursor: pointer;
+    padding: 10px 7px;
+    color: rgba(0, 0, 0, 0.76);
+}
+
+.App a:hover,
+.App a:active {
+    color: black;
+}
+
+.Nav {
+    text-align: left;
+}

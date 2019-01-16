@@ -1,0 +1,29 @@
+.Register {
+    text-align: center;
+}
+
+.Register input {
+    display: block;
+    width: 100%;
+    appearance: none;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    line-height: 26px;
+    font-size: 16px;
+}
+
+.Register button {
+    margin-top: 10px;
+}
+
+.Wrapper {
+    text-align: left;
+    width: 300px;
+    margin: 0 auto;
+    padding: 30px;  
+}
+
+.Message {
+    color: red;
+    font-style: italic;
+}

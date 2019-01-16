@@ -1,0 +1,16 @@
+textarea {
+    display: block;
+    margin: 10px auto;
+    width: 600px;
+    height: 100px;
+    overflow: scroll;
+    padding: 10px;
+}
+
+textarea::placeholder {
+    font-size: 16px;
+}
+
+textarea:focus::placeholder {
+    color: transparent;
+}
