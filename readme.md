@@ -29,3 +29,4 @@ redirect to home (or index.html whatever) then go to the copied route.
 something's change
 
 - Webpack is quite difficult to debug
+- Pay more attention to UI, you can't make the similar inner working
